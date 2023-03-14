@@ -1,6 +1,6 @@
 ![MasterHead](https://sonaligl.sirv.com/Images/banner.jpg)
 <h1 align="center">Hi 👋, My name is Alexandre</h1>
-<h3 align="center">A full-stack developer from Porto, Portugal</h3>
+<h3 align="center">A Web/Mobile developer from Porto, Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmaga17&label=Profile%20views&color=0e75b6&style=flat" alt="alexmaga17" /> </p>
 
