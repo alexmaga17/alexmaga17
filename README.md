@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmaga17&label=Profile%20views&color=0e75b6&style=flat" alt="alexmaga17" /> </p>
 
-- 🔭 I have a Bachelor's degree in **Web Development at ESMAD**
+- 🔭 Hello!! I'm a **Full-stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
